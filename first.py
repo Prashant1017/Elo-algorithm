@@ -1,4 +1,4 @@
-
+""" Simple program using Elo algorithm """
 
 def elo(old, exp, score, k=32):
     """
